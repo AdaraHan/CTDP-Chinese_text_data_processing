@@ -3,7 +3,7 @@
 """
 import pandas as pd
 
-# 用你的CSV文件路径替换以下路径
+# 加载CSV文件
 csv_file_path1 = "社会关系_output.csv"
 csv_file_path2 = "social_network_song.csv"
 
