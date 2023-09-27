@@ -8,7 +8,7 @@ from opencc import OpenCC
 import wikipediaapi
 import time
 
-# 用你的CSV文件路径替换以下路径
+# CSV文件路径
 csv_file_path = "社会关系_input.csv"
 
 # 读取CSV文件
